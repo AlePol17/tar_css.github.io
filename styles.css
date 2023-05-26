@@ -1,0 +1,60 @@
+*{
+    background-color: #BBBBBB;
+}
+
+section{
+    color: black;
+}
+h1{
+    color: black;
+    text-align: center
+}
+
+
+h2{
+    text-align: center;
+}
+
+.bt{
+    color: green;
+}
+
+#bot{
+    color: skyblue;
+}
+h3{
+    color: blue !important;
+}
+
+p2{
+    color: red;
+    text-align: center;
+}
+p3{
+    color: blue;
+    text-align: center;
+}
+p4{
+    color: green;
+    text-align: center;
+}
+p5{
+    color: yellow;
+    text-align: center;
+}
+
+div{
+    color: blueviolet;
+}
+a{
+    color: inherit;
+
+}
+
+p6{
+    color: blue;
+}
+
+.lp{
+    color:green;
+}
