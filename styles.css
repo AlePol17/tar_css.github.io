@@ -4,19 +4,26 @@
 
 section{
     color: black;
+   
+}
+
+.selector{
+    background-color: white;
+    padding: 15px;
+    border-radius: 15px;
 }
 h1{
     color: black;
-    text-align: center
-}
-
-
-h2{
     text-align: center;
+    font-family: sans-serif;
 }
 
-.bt{
-    color: green;
+
+.esp{
+    color: black;
+    background-color: white;
+    padding: 15px;
+    border-radius: 15px;
 }
 
 #bot{
@@ -55,6 +62,15 @@ p6{
     color: blue;
 }
 
-.lp{
-    color:green;
+.ca{
+    color:black;
+    background-color: white;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+.here{
+    background-color: white;
+    padding: 15px;
+    border-radius: 15px;
 }
